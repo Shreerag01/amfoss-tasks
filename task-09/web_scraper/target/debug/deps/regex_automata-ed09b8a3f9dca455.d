@@ -1,0 +1,12 @@
+/home/shree/web_scraper/target/debug/deps/regex_automata-ed09b8a3f9dca455.rmeta: /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs
+
+/home/shree/web_scraper/target/debug/deps/regex_automata-ed09b8a3f9dca455.d: /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs /home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs
+
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/lib.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/byteorder.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/classes.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dense.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/dfa.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/regex.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/sparse.rs:
+/home/shree/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.10/src/state_id.rs:

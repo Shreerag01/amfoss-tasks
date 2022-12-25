@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color: #EBEBDE;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #4F4747;
+  text-shadow: 3px 0 #777764;
+
+}
+
+.w {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.a {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.s {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.d {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.j {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.k {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.l {
+  box-shadow: 10px 5px 5px #777764;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #777764;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 12px solid #4F4747;
+  font-size: 4rem;
+  line-height: 1;
+  font-weight: 900;
+  color: #4F4747;
+  text-shadow: 3px 0 #777764;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: #EBEBDE;
+  
+}
