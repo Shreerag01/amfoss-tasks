@@ -22,16 +22,16 @@ class BunnyPlayer extends SpriteComponent with HasGameRef {
   updatePosition(double dt) {
     switch (direction) {
       case Direction.up:
-        position.y--;
+        position.y -= 2.5;
         break;
       case Direction.down:
-        position.y++;
+        position.y += 2.5;
         break;
       case Direction.left:
-        position.x--;
+        position.x -= 2.5;
         break;
       case Direction.right:
-        position.x++;
+        position.x += 2.5;
         break;
       case Direction.none:
         break;

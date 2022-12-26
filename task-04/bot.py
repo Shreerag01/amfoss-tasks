@@ -50,10 +50,10 @@ def getMovie(message):
     movie_info = get_movie_info(movie)
 
     if movie_info:
-        message_text = (f"{movie_info['poster']}\n\n" +
-                        f"Movie: {movie_info['title']}\n\n" +
+        message_text = (f"Movie: {movie_info['title']}\n\n" +
                         f"Year of Release: {movie_info['year']}\n\n" +
-                        f"IMDb Rating: {movie_info['imdb_rating']}")
+                        f"IMDb Rating: {movie_info['imdb_rating']}\n\n" +
+                        f"Poster Link: {movie_info['poster']}")
 
         bot.send_message(message.chat.id, message_text)
 

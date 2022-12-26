@@ -1,0 +1,1 @@
+As I was new to flutter, this task got a bit difficult than I thought. I also faced some difficulties while installing Android Studio on my system. Apart from all of the difficulties I was able to complete the task. I have also attached the recording of the final output.

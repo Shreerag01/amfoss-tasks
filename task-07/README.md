@@ -1,0 +1,1 @@
+I'm facing a difficulty with the reset function, though the code is correct when I give the option to reset it is showing "go!" instead of returing the value 0. I'm attaching the recording of the same.

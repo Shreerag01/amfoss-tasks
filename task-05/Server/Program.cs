@@ -30,7 +30,7 @@ public class SynchronousSocketListener{
                 int bytesRec = handler.Receive(bytes);
                 data = Encoding.ASCII.GetString(bytes,0,bytesRec);
 
-                Console.WriteLine("Text received : {0}", data);
+                Console.WriteLine("Text received: {0}", data);
 
                 byte[] msg = Encoding.ASCII.GetBytes(data);
 

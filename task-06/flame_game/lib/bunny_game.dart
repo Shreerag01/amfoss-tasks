@@ -6,8 +6,8 @@ import 'bunny_player.dart';
 import 'bunny_world.dart';
 
 class BunnyGame extends FlameGame {
-  BunnyPlayer _bunnyPlayer = BunnyPlayer();
-  BunnyWorld _bunnyWorld = BunnyWorld();
+  final BunnyPlayer _bunnyPlayer = BunnyPlayer();
+  final BunnyWorld _bunnyWorld = BunnyWorld();
   @override
   Future<void> onLoad() async {
     super.onLoad();
