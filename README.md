@@ -1,6 +1,6 @@
 # amfoss-tasks
 
-My name is Shreerag Nair and I am from Trivandrum, Kerala. I am currently a S3 AIE student at Amrita School of Engineering.
+I am Shreerag Nair, a current S3 AIE student at Amrita School of Engineering  
 
 **TASKS**|**DESCRIPTION**|**STATUS**
 --------------|---------------|---------------
