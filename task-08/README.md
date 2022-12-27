@@ -1,6 +1,6 @@
 # TASK-08
 
-This was a pretty simple task. I created the website similar to the demo provided and I have attached the screenshot of my website.
+Since I had previous experience with web development, I found this task to be quite simple. I have attached the screen recording of my website.
 
 ### _SCREEN RECORDING_
 
