@@ -35,11 +35,11 @@ fn main() {
         .zip(0..100)
         .for_each(|(item, _number)| 
         if _number%2 == 0 {
-           market_cap.push(item)
+            tfh_volume.push(item)
          
         }
         else{
-            tfh_volume.push(item)
+            market_cap.push(item)
         });
 
     let mut wtr = csv::Writer::from_path("crypto.csv").unwrap();
