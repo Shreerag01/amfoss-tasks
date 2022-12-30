@@ -1,14 +1,3 @@
-var numberOfButtons = document.querySelectorAll(".button").length;
-  
-for (var i = 0; i < numberOfButtons; i++) {
-  
-  document.querySelectorAll(".button")[i].addEventListener("click", function() {
-      var buttonStyle = this.HTML;
-      sound(buttonStyle);
-      animation(buttonStyle);
-  });
-}
-
 document.addEventListener("keypress", function(event) {
     var keyPressed = event.key.toLowerCase();
     console.log(keyPressed);
